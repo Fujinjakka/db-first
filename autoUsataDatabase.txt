@@ -1,0 +1,13 @@
+AutoUsate_Database
+
+Numero Telaio - PRIMARY KEY - UNIQUE
+
+Modello       - Stringa  - VARCHAR(50) - NOTNULL
+
+Marca         - Stringa  - VARCHAR(30) - NOTNULL
+
+Anno          - Data     - YEAR        - NOTNULL
+
+Km percorsi   - Intero   - MEDIUMINT   - NOTNULL
+
+Prezzo        - Float    - FLOAT(9,2)  - NOTNULL
